@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-labelledby="title desc">
+  <title id="title">プチぷよ</title>
+  <desc id="desc">薄皮ミニトマトのイメージ</desc>
+  <rect width="900" height="680" fill="#fff3df"/>
+  <path d="M0 495 C200 410 345 500 520 430 C700 360 790 400 900 350 L900 680 L0 680 Z" fill="#83ad55"/>
+  <g transform="translate(170 100)">
+    <ellipse cx="290" cy="310" rx="285" ry="190" fill="#f8e5c3"/>
+    <circle cx="240" cy="285" r="96" fill="#e94e3d"/>
+    <circle cx="350" cy="298" r="105" fill="#f25d43"/>
+    <circle cx="455" cy="250" r="84" fill="#d93d33"/>
+    <circle cx="290" cy="205" r="75" fill="#ff7b56"/>
+    <circle cx="405" cy="370" r="70" fill="#e64536"/>
+    <path d="M330 160 C315 118 347 86 382 112 C392 66 446 64 452 112 C501 92 532 142 493 176 C530 210 493 256 449 238 C433 286 370 277 373 226 C322 238 292 195 330 160 Z" fill="#3e8a3f"/>
+    <circle cx="272" cy="248" r="19" fill="#fff2d1" opacity=".62"/>
+    <circle cx="387" cy="263" r="20" fill="#fff2d1" opacity=".54"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-labelledby="title desc">
+  <title id="title">とうもろこし</title>
+  <desc id="desc">白と黄色のとうもろこしのイメージ</desc>
+  <rect width="900" height="680" fill="#fffbe5"/>
+  <path d="M0 510 C170 420 355 500 540 420 C720 344 790 386 900 342 L900 680 L0 680 Z" fill="#7ea84f"/>
+  <g transform="translate(250 78)">
+    <path d="M220 72 C108 112 60 244 90 386 C125 548 326 545 368 388 C407 242 342 104 220 72 Z" fill="#f0cf49"/>
+    <path d="M218 105 C126 144 95 260 122 377 C150 500 303 500 335 378 C368 252 313 140 218 105 Z" fill="#fff5bf" opacity=".7"/>
+    <g fill="#f8dc64" stroke="#e4bc38" stroke-width="3">
+      <circle cx="168" cy="166" r="18"/><circle cx="212" cy="152" r="18"/><circle cx="256" cy="166" r="18"/>
+      <circle cx="148" cy="213" r="18"/><circle cx="193" cy="203" r="18"/><circle cx="237" cy="204" r="18"/><circle cx="281" cy="218" r="18"/>
+      <circle cx="136" cy="264" r="18"/><circle cx="182" cy="256" r="18"/><circle cx="228" cy="256" r="18"/><circle cx="274" cy="270" r="18"/>
+      <circle cx="145" cy="315" r="18"/><circle cx="190" cy="310" r="18"/><circle cx="236" cy="312" r="18"/><circle cx="280" cy="325" r="18"/>
+      <circle cx="165" cy="365" r="18"/><circle cx="210" cy="363" r="18"/><circle cx="253" cy="368" r="18"/>
+    </g>
+    <path d="M120 330 C42 250 34 142 78 82 C162 170 188 294 190 500 C162 444 144 380 120 330 Z" fill="#4f8e43"/>
+    <path d="M312 338 C408 252 420 138 366 70 C286 175 254 302 246 508 C280 452 288 386 312 338 Z" fill="#5d9d4e"/>
+  </g>
+</svg>
