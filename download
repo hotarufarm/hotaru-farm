@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-labelledby="title desc">
+  <title id="title">ホタル農園のお米</title>
+  <desc id="desc">稲穂と米袋のイメージ</desc>
+  <rect width="900" height="680" fill="#fff8df"/>
+  <circle cx="735" cy="135" r="96" fill="#f6d661" opacity=".72"/>
+  <path d="M0 430 C180 350 360 440 545 360 C705 292 810 340 900 298 L900 680 L0 680 Z" fill="#78a94f"/>
+  <path d="M0 520 C210 470 410 520 620 455 C765 410 820 430 900 408 L900 680 L0 680 Z" fill="#416f3d"/>
+  <g transform="translate(330 150)">
+    <rect x="0" y="52" width="240" height="340" rx="34" fill="#f8efd3" stroke="#d9bb72" stroke-width="10"/>
+    <path d="M36 92 C95 124 150 124 204 92" fill="none" stroke="#d9bb72" stroke-width="9" stroke-linecap="round"/>
+    <text x="120" y="236" text-anchor="middle" font-size="54" font-weight="700" fill="#4f6637" font-family="serif">米</text>
+    <text x="120" y="290" text-anchor="middle" font-size="26" fill="#765b35" font-family="sans-serif">HOTARU FARM</text>
+  </g>
+  <g stroke="#e0b84a" stroke-width="9" stroke-linecap="round">
+    <path d="M205 165 C248 230 250 292 230 370"/>
+    <path d="M246 150 C292 220 294 296 270 392"/>
+    <path d="M655 154 C610 226 600 294 620 378"/>
+    <path d="M702 178 C652 258 660 322 692 410"/>
+  </g>
+  <g fill="#f1d878">
+    <ellipse cx="230" cy="190" rx="18" ry="34" transform="rotate(-32 230 190)"/>
+    <ellipse cx="258" cy="230" rx="18" ry="34" transform="rotate(-18 258 230)"/>
+    <ellipse cx="632" cy="190" rx="18" ry="34" transform="rotate(32 632 190)"/>
+    <ellipse cx="676" cy="238" rx="18" ry="34" transform="rotate(22 676 238)"/>
+  </g>
+</svg>
